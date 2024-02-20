@@ -1,4 +1,4 @@
-Demo Link -> https://appsml.streamlit.app/
+Deployment Link -> https://appsml.streamlit.app/
 
 ### Usage-Local
 
