@@ -1,17 +1,17 @@
-Veri Seti : Breast Cancer Wisconsin (Diagnostic) Data Set
+## Veri Seti : Breast Cancer Wisconsin (Diagnostic) Data Set
 
-# Görev 1
+## Görev 1
 Data Analizi
 
-# Görev 2
+## Görev 2
 Data Ön İşlemleri
 
-# Görev 3
+## Görev 3
 Model Gerçeklemesi
 
-# Görev 4
+## Görev 4
 Model Analizi
 
-# Görev 5
+## Görev 5
 Streamlit Entegrasyonu
 
