@@ -8,7 +8,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import classification_report, confusion_matrix, precision_score, recall_score, f1_score, accuracy_score
-# Usage - Local-> run streamlit run Mini_Proje_Merve_Tutar.py
+# Usage - Local-> run streamlit run main.py
 class BreastCancerClassifier:
     def __init__(self, file_path):
         self.file_path = file_path
