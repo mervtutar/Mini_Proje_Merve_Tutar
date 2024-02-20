@@ -1,4 +1,8 @@
-## Veri Seti : Breast Cancer Wisconsin (Diagnostic) Data Set
+### Usage-Local
+
+run streamlit main.py
+
+### Veri Seti : Breast Cancer Wisconsin (Diagnostic) Data Set
 
 ## Görev 1
 Data Analizi
